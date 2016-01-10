@@ -2,7 +2,7 @@
 
 This repository contains Dockerfile of transmission-daemon for build an ARMv7 (armhf) compatible Docker image.
 
-# Usage
+### Usage
 
 - Replace `PATH_TO_DOWNLOAD_FOLDER` and `PATH_TO_TRANSMISSION_SETTINGS` with your local folders.
 - Start server:
