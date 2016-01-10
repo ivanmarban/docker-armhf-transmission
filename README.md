@@ -24,3 +24,7 @@ docker stop transmission
 ```bash
 docker start transmission
 ```
+- Access to the web interface:
+```bash
+http://ip_address:9091/
+```
